@@ -5,6 +5,8 @@ Hey there! Check out this very _easy_ and **tasty** [chocolate cake recipe](http
 #### While you are waiting...
 ![Joke][joke]
 
+Image from [xkcd](https://xkcd.com/833/). This work is licensed under a Creative Commons Attribution-NonCommercial 2.5 License.
+
 > **Don't forget the cake in the oven!**
 
 
