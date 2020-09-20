@@ -1,0 +1,39 @@
+---
+title: "exercise_1b"
+author: "Hannah Li Hägi"
+date: "20.9.2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Sampling
+
+Randomly sample 100 values from a log-normal distribution using mu = 1 and sigma = 0.25:
+
+```{r Sampling}
+data <- rlnorm(100, meanlog = 1, sdlog = .25)
+```
+
+## Histogram of sample
+
+Create a histogram of the sampled data:
+
+```{r Hist}
+hist(data)
+```
+
+Now, create a histogram of the data with a logged scale:
+
+```{r logHist}
+log_data <- log(data)
+hist(log_data)
+```
+
+## Compute mean and variance of sample
+```{r MeanVar}
+mean(data)
+var(data)
+```
