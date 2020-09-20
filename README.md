@@ -23,7 +23,7 @@ This cake is fantastic because:
 2. It does not require a lot of ingredients
 3. It does not take a lot of time to prepare and bake the cake
 4. And the most important point: It tastes delicious!  
-   It **really** _is_!
+   It **really** _does_!
 
 
 [joke]: joke.PNG
